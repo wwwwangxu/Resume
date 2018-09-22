@@ -1,0 +1,50 @@
+*{  
+    margin:0;
+    padding: 0;
+    font-family:"微软雅黑"；
+}
+
+.title{
+    margin-left: 2px;
+    margin-top:5px;
+    height: 80px;
+    width:100%;
+    background: #777777;
+}
+h1{
+    margin-left: 40px;
+    height: 80px;
+    line-height: 80px;
+}
+.information,.contact,.ability,.edu,.exp{
+    margin-left: 2px;
+    height: 151px;
+    width: 100%;
+    border-bottom: 1px solid #aaaaaa;
+
+}
+.style1{
+    float: left;
+    width: 150px;
+    height: 150px;
+    border-bottom: 1px solid #fff;
+    background-color: #aaaaaa;
+    text-align: center;
+}
+.style1 h2{
+    height: 150px;
+    line-height: 150px;
+} 
+.style2{
+    float:left;
+    margin-left:10px;
+}
+h4{
+    margin-top:18px;
+}
+.contact p ,.information p{
+    height: 150px;
+    line-height: 150px;
+    font-size: 18px;
+}
+
